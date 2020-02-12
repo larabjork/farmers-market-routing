@@ -6,7 +6,7 @@ function MarketSchedule(props){
     <div>
     <style jsx>{`
       div {
-        background-color: red;
+        background-color: lavender;
       }
       `}</style>
       <h3>{props.day} - {props.location}</h3>
